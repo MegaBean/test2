@@ -1,5 +1,4 @@
 ansible==1.5.4
-awscli==1.15.40
 Django==1.7
 html5lib==0.999
 supervisor==3.0b2
