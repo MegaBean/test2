@@ -1,2 +1,5 @@
+ansible==1.5.4
+anyjson==0.3.3
+awscli==1.15.40
 supervisor==3.0b2
 werkzeug
