@@ -1,5 +1,4 @@
 ansible==1.5.4
-anyjson==0.3.3
 awscli==1.15.40
 Django==1.7
 html5lib==0.999
